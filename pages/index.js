@@ -12,7 +12,7 @@ export default function Home() {
       <p>
         This is a sample page for Anwar Rasheed
       </p>
-      <Link href="/about">About</Link>
+      <Link href="/suppliers">About</Link>
  
     </>
   )
